@@ -1,11 +1,8 @@
 # Site settings
-title: Formation Finance Blog
-#email: your-email@domain.com
+title: Le Blog de Richard Guillemot.
 description: Un Blog
 baseurl: /blog # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-#twitter_username: jekyllrb
-#github_username:  jekyll
 
 # Build settings
 markdown: kramdown
